@@ -1,4 +1,4 @@
-# Codex Auth Manager Plugin
+# Codex Auth Manager - OpenClaw Plugin
 
 This plugin connects OpenClaw to Codex Auth Manager so OpenClaw can run on a managed lease, receive the active auth automatically, and report usage back to the manager.
 
